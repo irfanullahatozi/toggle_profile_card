@@ -13,4 +13,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+## Screenshot before
 ![Screenshot](Capture.PNG)
+
+## Screenshot after
+![Screenshot](Capture2.PNG)
